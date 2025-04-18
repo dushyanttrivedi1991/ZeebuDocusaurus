@@ -1,0 +1,32 @@
+{
+  "id": "ZeebuProtocol/roleofeachparticipants",
+  "title": "Role Of Each Participants",
+  "description": "Role Of Each Participants",
+  "source": "@site/docs/ZeebuProtocol/RoleOfEachParticipants.md",
+  "sourceDirName": "ZeebuProtocol",
+  "slug": "/zeebuprotocol/roleofeachparticipants",
+  "permalink": "/docs/zeebuprotocol/roleofeachparticipants",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ZeebuProtocol/RoleOfEachParticipants.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "roleofeachparticipants",
+    "title": "Role Of Each Participants",
+    "slug": "/zeebuprotocol/roleofeachparticipants",
+    "sidebar_label": "Role Of Each Participants",
+    "sidebar_position": 3,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Penalty",
+    "permalink": "/docs/zeebuprotocol/stake/penalty"
+  },
+  "next": {
+    "title": "Benefits",
+    "permalink": "/docs/zeebuprotocol/benefits"
+  }
+}

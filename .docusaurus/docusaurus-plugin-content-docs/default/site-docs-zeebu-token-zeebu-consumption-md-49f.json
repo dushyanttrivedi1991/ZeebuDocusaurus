@@ -1,0 +1,32 @@
+{
+  "id": "Zeebu/Token/zeebuconsumption",
+  "title": "Zeebu Consumption",
+  "description": "Zeebu Consumption",
+  "source": "@site/docs/Zeebu/Token/ZeebuConsumption.md",
+  "sourceDirName": "Zeebu/Token",
+  "slug": "/zeebu/token/zeebuconsumption",
+  "permalink": "/docs/zeebu/token/zeebuconsumption",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Zeebu/Token/ZeebuConsumption.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "zeebuconsumption",
+    "title": "Zeebu Consumption",
+    "slug": "/zeebu/token/zeebuconsumption",
+    "sidebar_label": "Zeebu Consumption",
+    "sidebar_position": 2,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Tokonomics",
+    "permalink": "/docs/zeebu/token/tokonomics"
+  },
+  "next": {
+    "title": "Token Allocation",
+    "permalink": "/docs/zeebu/token/tokenallocation"
+  }
+}

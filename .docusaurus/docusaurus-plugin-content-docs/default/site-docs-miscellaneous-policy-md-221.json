@@ -1,0 +1,32 @@
+{
+  "id": "Miscellaneous/policy",
+  "title": "Policy",
+  "description": "Policy",
+  "source": "@site/docs/Miscellaneous/Policy.md",
+  "sourceDirName": "Miscellaneous",
+  "slug": "/miscellaneous/policy",
+  "permalink": "/docs/miscellaneous/policy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Miscellaneous/Policy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "policy",
+    "title": "Policy",
+    "slug": "/miscellaneous/policy",
+    "sidebar_label": "Policy",
+    "sidebar_position": 7,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Terms And Conditions",
+    "permalink": "/docs/miscellaneous/termsandconditions"
+  },
+  "next": {
+    "title": "Support",
+    "permalink": "/docs/miscellaneous/support"
+  }
+}

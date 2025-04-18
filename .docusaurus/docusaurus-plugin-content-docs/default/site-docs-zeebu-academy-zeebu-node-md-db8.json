@@ -1,0 +1,32 @@
+{
+  "id": "ZeebuAcademy/zeebunode",
+  "title": "Zeebu Node",
+  "description": "Zeebu Node",
+  "source": "@site/docs/ZeebuAcademy/ZeebuNode.md",
+  "sourceDirName": "ZeebuAcademy",
+  "slug": "/zeebuacademy/zeebunode",
+  "permalink": "/docs/zeebuacademy/zeebunode",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ZeebuAcademy/ZeebuNode.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "zeebunode",
+    "title": "Zeebu Node",
+    "slug": "/zeebuacademy/zeebunode",
+    "sidebar_label": "Zeebu Node",
+    "sidebar_position": 3,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Zeebu PSP",
+    "permalink": "/docs/zeebuacademy/zeebupsp"
+  },
+  "next": {
+    "title": "Zeebu Airdrop",
+    "permalink": "/docs/zeebuacademy/zeebuairdrop"
+  }
+}

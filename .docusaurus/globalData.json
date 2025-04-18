@@ -1,0 +1,448 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "AirDrop/Epochs/epoch1",
+              "path": "/docs/airdrop/epochs/epoch1",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "AirDrop/Epochs/epoch2",
+              "path": "/docs/airdrop/epochs/epoch2",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "AirDrop/Epochs/epoch3",
+              "path": "/docs/airdrop/epochs/epoch3",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "AirDrop/Epochs/epoch4",
+              "path": "/docs/airdrop/epochs/epoch4",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "AirDrop/Epochs/Index",
+              "path": "/docs/airdrop/epochs",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "AirDrop/Index",
+              "path": "/docs/airdrop",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "AirDrop/ZeebuAirdropSeason1/Index",
+              "path": "/docs/airdrop/zeebuairdropseason1",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "AirDrop/ZeebuAirdropSeason1/multichainallocationzbuairdropseason1",
+              "path": "/docs/airdrop/zeebuairdropseason1/multichainallocationzbuairdropseason1",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "AirDrop/ZeebuProtocolsEvolutionZIPs/Index",
+              "path": "/docs/airdrop/zeebuprotocolsevolutionzips",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "AirDrop/ZeebuProtocolsEvolutionZIPs/taskspecifictermsconditions",
+              "path": "/docs/airdrop/zeebuprotocolsevolutionzips/taskspecifictermsconditions",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "AirDrop/ZeebuProtocolsEvolutionZIPs/zipdistributionrulesactivity",
+              "path": "/docs/airdrop/zeebuprotocolsevolutionzips/zipdistributionrulesactivity",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "AirDrop/zeebuprotocolwaitlist",
+              "path": "/docs/airdrop/zeebuprotocolwaitlist",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Miscellaneous/brandkit",
+              "path": "/docs/miscellaneous/brandkit",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Miscellaneous/Index",
+              "path": "/docs/miscellaneous",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Miscellaneous/keyaddresses",
+              "path": "/docs/miscellaneous/keyaddresses",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Miscellaneous/legaldisclaimer",
+              "path": "/docs/miscellaneous/legaldisclaimer",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Miscellaneous/partnership",
+              "path": "/docs/miscellaneous/partnership",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Miscellaneous/policy",
+              "path": "/docs/miscellaneous/policy",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Miscellaneous/socials",
+              "path": "/docs/miscellaneous/socials",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Miscellaneous/support",
+              "path": "/docs/miscellaneous/support",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Miscellaneous/team",
+              "path": "/docs/miscellaneous/team",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Miscellaneous/termsandconditions",
+              "path": "/docs/miscellaneous/termsandconditions",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Miscellaneous/transparency",
+              "path": "/docs/miscellaneous/transparency",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Opportunity/currentchallenges",
+              "path": "/docs/opportunity/currentchallenges",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Opportunity/currentviews",
+              "path": "/docs/opportunity/currentviews",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Opportunity/Index",
+              "path": "/docs/opportunity",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Opportunity/keyfacts",
+              "path": "/docs/opportunity/keyfacts",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "problemstatement",
+              "path": "/docs/problemstatement",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "RoadMap/cdpvault",
+              "path": "/docs/roadmap/cdpvault",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "RoadMap/Index",
+              "path": "/docs/roadmap",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "RoadMap/moneymarket",
+              "path": "/docs/roadmap/moneymarket",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "WhyZeebu/Index",
+              "path": "/docs/whyzeebu",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "WhyZeebu/utilityoftoken",
+              "path": "/docs/whyzeebu/utilityoftoken",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Zeebu/Index",
+              "path": "/docs/zeebu",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Zeebu/PSP/Index",
+              "path": "/docs/zeebu/psp",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Zeebu/PSP/knowhows",
+              "path": "/docs/zeebu/psp/knowhows",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Zeebu/PSP/PlatformOverview/Index",
+              "path": "/docs/zeebu/psp/platformoverview",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Zeebu/PSP/PlatformOverview/technology",
+              "path": "/docs/zeebu/psp/platformoverview/technology",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Zeebu/PSP/Process/flowoffunds",
+              "path": "/docs/zeebu/psp/process/flowoffunds",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Zeebu/PSP/Process/Index",
+              "path": "/docs/zeebu/psp/process",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Zeebu/PSP/Process/merchantcustomerdashboard",
+              "path": "/docs/zeebu/psp/process/merchantcustomerdashboard",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Zeebu/PSP/Process/paymentprocessorsettlement",
+              "path": "/docs/zeebu/psp/process/paymentprocessorsettlement",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Zeebu/PSP/security",
+              "path": "/docs/zeebu/psp/security",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Zeebu/PSP/stakeholders",
+              "path": "/docs/zeebu/psp/stakeholders",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Zeebu/PSP/whocanjoin",
+              "path": "/docs/zeebu/psp/whocanjoin",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Zeebu/Token/Index",
+              "path": "/docs/zeebu/token",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Zeebu/Token/publicexchange",
+              "path": "/docs/zeebu/token/publicexchange",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Zeebu/Token/tokenallocation",
+              "path": "/docs/zeebu/token/tokenallocation",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Zeebu/Token/tokensale",
+              "path": "/docs/zeebu/token/tokensale",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Zeebu/Token/tokonomics",
+              "path": "/docs/zeebu/token/tokonomics",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Zeebu/Token/zeebuconsumption",
+              "path": "/docs/zeebu/token/zeebuconsumption",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Zeebu/ZeebuPhoenixProtocol/Index",
+              "path": "/docs/zeebu/zeebuphoenixprotocol",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "Zeebu/ZeebuPhoenixProtocol/zeebuburn",
+              "path": "/docs/zeebu/zeebuphoenixprotocol/zeebuburn",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuAcademy/Index",
+              "path": "/docs/zeebuacademy",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuAcademy/zeebuairdrop",
+              "path": "/docs/zeebuacademy/zeebuairdrop",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuAcademy/zeebunode",
+              "path": "/docs/zeebuacademy/zeebunode",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuAcademy/ZeebuProtocol/howtoaddstakeliquidity",
+              "path": "/docs/zeebuacademy/zeebuprotocol/howtoaddstakeliquidity",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuAcademy/ZeebuProtocol/howtobecomedeployer",
+              "path": "/docs/zeebuacademy/zeebuprotocol/howtobecomedeployer",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuAcademy/ZeebuProtocol/howtobuyswapzeebu",
+              "path": "/docs/zeebuacademy/zeebuprotocol/howtobuyswapzeebu",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuAcademy/ZeebuProtocol/howtochangeblockchain",
+              "path": "/docs/zeebuacademy/zeebuprotocol/howtochangeblockchain",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuAcademy/ZeebuProtocol/Index",
+              "path": "/docs/zeebuacademy/zeebuprotocol",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuAcademy/ZeebuProtocol/logindashboard",
+              "path": "/docs/zeebuacademy/zeebuprotocol/logindashboard",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuAcademy/ZeebuProtocol/stakezeebu",
+              "path": "/docs/zeebuacademy/zeebuprotocol/stakezeebu",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuAcademy/ZeebuProtocol/useronboarding",
+              "path": "/docs/zeebuacademy/zeebuprotocol/useronboarding",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuAcademy/zeebupsp",
+              "path": "/docs/zeebuacademy/zeebupsp",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuProtocol/benefits",
+              "path": "/docs/zeebuprotocol/benefits",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuProtocol/howitwillchangeorupgrade",
+              "path": "/docs/zeebuprotocol/howitwillchangeorupgrade",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuProtocol/Index",
+              "path": "/docs/zeebuprotocol",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuProtocol/KeyParticipants/delegators",
+              "path": "/docs/zeebuprotocol/keyparticipants/delegators",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuProtocol/KeyParticipants/Deployer-OCH/generalnode",
+              "path": "/docs/zeebuprotocol/keyparticipants/deployer-och/generalnode",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuProtocol/KeyParticipants/Deployer-OCH/Index",
+              "path": "/docs/zeebuprotocol/keyparticipants/deployer-och",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuProtocol/KeyParticipants/Deployer-OCH/kolnode",
+              "path": "/docs/zeebuprotocol/keyparticipants/deployer-och/kolnode",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuProtocol/KeyParticipants/Deployer-OCH/masternode",
+              "path": "/docs/zeebuprotocol/keyparticipants/deployer-och/masternode",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuProtocol/KeyParticipants/Index",
+              "path": "/docs/zeebuprotocol/keyparticipants",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuProtocol/KeyParticipants/olp",
+              "path": "/docs/zeebuprotocol/keyparticipants/olp",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuProtocol/roleofeachparticipants",
+              "path": "/docs/zeebuprotocol/roleofeachparticipants",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuProtocol/Stake/how",
+              "path": "/docs/zeebuprotocol/stake/how",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuProtocol/Stake/Index",
+              "path": "/docs/zeebuprotocol/stake",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuProtocol/Stake/lockedzbu-vezbu",
+              "path": "/docs/zeebuprotocol/stake/lockedzbu-vezbu",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuProtocol/Stake/penalty",
+              "path": "/docs/zeebuprotocol/stake/penalty",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuProtocol/whocanjoin",
+              "path": "/docs/zeebuprotocol/whocanjoin",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuProtocol/why",
+              "path": "/docs/zeebuprotocol/why",
+              "sidebar": "zeebuSidebar"
+            },
+            {
+              "id": "ZeebuProtocol/zeebuflow",
+              "path": "/docs/zeebuprotocol/zeebuflow",
+              "sidebar": "zeebuSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "zeebuSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

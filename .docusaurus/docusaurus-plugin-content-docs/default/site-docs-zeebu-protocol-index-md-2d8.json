@@ -1,0 +1,31 @@
+{
+  "id": "ZeebuProtocol/Index",
+  "title": "Zeebu Protocol",
+  "description": "Zeebu Protocol",
+  "source": "@site/docs/ZeebuProtocol/Index.md",
+  "sourceDirName": "ZeebuProtocol",
+  "slug": "/zeebuprotocol",
+  "permalink": "/docs/zeebuprotocol",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ZeebuProtocol/Index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Zeebu Protocol",
+    "slug": "/zeebuprotocol",
+    "hide_table_of_contents": false,
+    "sidebar_position": 6,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Zeebu Burn",
+    "permalink": "/docs/zeebu/zeebuphoenixprotocol/zeebuburn"
+  },
+  "next": {
+    "title": "Key Participants",
+    "permalink": "/docs/zeebuprotocol/keyparticipants"
+  }
+}

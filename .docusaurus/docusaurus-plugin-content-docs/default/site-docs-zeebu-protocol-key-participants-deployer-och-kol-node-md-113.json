@@ -1,0 +1,32 @@
+{
+  "id": "ZeebuProtocol/KeyParticipants/Deployer-OCH/kolnode",
+  "title": "KOL Node",
+  "description": "KOL Node",
+  "source": "@site/docs/ZeebuProtocol/KeyParticipants/Deployer-OCH/KOLNode.md",
+  "sourceDirName": "ZeebuProtocol/KeyParticipants/Deployer-OCH",
+  "slug": "/zeebuprotocol/keyparticipants/deployer-och/kolnode",
+  "permalink": "/docs/zeebuprotocol/keyparticipants/deployer-och/kolnode",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ZeebuProtocol/KeyParticipants/Deployer-OCH/KOLNode.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "kolnode",
+    "title": "KOL Node",
+    "slug": "/zeebuprotocol/keyparticipants/deployer-och/kolnode",
+    "sidebar_label": "KOL Node",
+    "sidebar_position": 2,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Master Node",
+    "permalink": "/docs/zeebuprotocol/keyparticipants/deployer-och/masternode"
+  },
+  "next": {
+    "title": "General Node",
+    "permalink": "/docs/zeebuprotocol/keyparticipants/deployer-och/generalnode"
+  }
+}

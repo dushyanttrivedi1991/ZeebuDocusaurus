@@ -1,0 +1,32 @@
+{
+  "id": "Zeebu/ZeebuPhoenixProtocol/zeebuburn",
+  "title": "Zeebu Burn",
+  "description": "Zeebu Burn",
+  "source": "@site/docs/Zeebu/ZeebuPhoenixProtocol/ZeebuBurn.md",
+  "sourceDirName": "Zeebu/ZeebuPhoenixProtocol",
+  "slug": "/zeebu/zeebuphoenixprotocol/zeebuburn",
+  "permalink": "/docs/zeebu/zeebuphoenixprotocol/zeebuburn",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Zeebu/ZeebuPhoenixProtocol/ZeebuBurn.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "zeebuburn",
+    "title": "Zeebu Burn",
+    "slug": "/zeebu/zeebuphoenixprotocol/zeebuburn",
+    "sidebar_label": "Zeebu Burn",
+    "sidebar_position": 1,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Zeebu Phoenix Protocol",
+    "permalink": "/docs/zeebu/zeebuphoenixprotocol"
+  },
+  "next": {
+    "title": "Zeebu Protocol",
+    "permalink": "/docs/zeebuprotocol"
+  }
+}

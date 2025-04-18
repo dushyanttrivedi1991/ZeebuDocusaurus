@@ -1,0 +1,32 @@
+{
+  "id": "Zeebu/PSP/PlatformOverview/technology",
+  "title": "Technology",
+  "description": "Technology",
+  "source": "@site/docs/Zeebu/PSP/PlatformOverview/Technology.md",
+  "sourceDirName": "Zeebu/PSP/PlatformOverview",
+  "slug": "/zeebu/psp/platformoverview/technology",
+  "permalink": "/docs/zeebu/psp/platformoverview/technology",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Zeebu/PSP/PlatformOverview/Technology.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "technology",
+    "title": "Technology",
+    "slug": "/zeebu/psp/platformoverview/technology",
+    "sidebar_label": "Technology",
+    "sidebar_position": 1,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Platform Overview",
+    "permalink": "/docs/zeebu/psp/platformoverview"
+  },
+  "next": {
+    "title": "Stakeholders",
+    "permalink": "/docs/zeebu/psp/stakeholders"
+  }
+}

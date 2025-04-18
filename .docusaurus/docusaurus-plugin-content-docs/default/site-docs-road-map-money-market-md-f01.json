@@ -1,0 +1,32 @@
+{
+  "id": "RoadMap/moneymarket",
+  "title": "Money Market",
+  "description": "Money Market",
+  "source": "@site/docs/RoadMap/MoneyMarket.md",
+  "sourceDirName": "RoadMap",
+  "slug": "/roadmap/moneymarket",
+  "permalink": "/docs/roadmap/moneymarket",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RoadMap/MoneyMarket.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "moneymarket",
+    "title": "Money Market",
+    "slug": "/roadmap/moneymarket",
+    "sidebar_label": "Money Market",
+    "sidebar_position": 1,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "RoadMap",
+    "permalink": "/docs/roadmap"
+  },
+  "next": {
+    "title": "CDP Vault",
+    "permalink": "/docs/roadmap/cdpvault"
+  }
+}

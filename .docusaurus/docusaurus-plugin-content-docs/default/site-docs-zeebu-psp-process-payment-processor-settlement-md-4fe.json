@@ -1,0 +1,32 @@
+{
+  "id": "Zeebu/PSP/Process/paymentprocessorsettlement",
+  "title": "Payment Processor & Settlement Layer",
+  "description": "Payment Processor & Settlement Layer",
+  "source": "@site/docs/Zeebu/PSP/Process/PaymentProcessorSettlement.md",
+  "sourceDirName": "Zeebu/PSP/Process",
+  "slug": "/zeebu/psp/process/paymentprocessorsettlement",
+  "permalink": "/docs/zeebu/psp/process/paymentprocessorsettlement",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Zeebu/PSP/Process/PaymentProcessorSettlement.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "paymentprocessorsettlement",
+    "title": "Payment Processor & Settlement Layer",
+    "slug": "/zeebu/psp/process/paymentprocessorsettlement",
+    "sidebar_label": "Payment Processor & Settlement Layer",
+    "sidebar_position": 2,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Merchant & Customer Dashboard",
+    "permalink": "/docs/zeebu/psp/process/merchantcustomerdashboard"
+  },
+  "next": {
+    "title": "Flow Of Funds",
+    "permalink": "/docs/zeebu/psp/process/flowoffunds"
+  }
+}

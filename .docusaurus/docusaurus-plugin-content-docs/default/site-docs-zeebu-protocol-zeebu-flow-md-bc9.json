@@ -1,0 +1,32 @@
+{
+  "id": "ZeebuProtocol/zeebuflow",
+  "title": "Zeebu Flow",
+  "description": "Zeebu Flow",
+  "source": "@site/docs/ZeebuProtocol/ZeebuFlow.md",
+  "sourceDirName": "ZeebuProtocol",
+  "slug": "/zeebuprotocol/zeebuflow",
+  "permalink": "/docs/zeebuprotocol/zeebuflow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ZeebuProtocol/ZeebuFlow.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "zeebuflow",
+    "title": "Zeebu Flow",
+    "slug": "/zeebuprotocol/zeebuflow",
+    "sidebar_label": "Zeebu Flow",
+    "sidebar_position": 7,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "How It Will Change Or Upgrade",
+    "permalink": "/docs/zeebuprotocol/howitwillchangeorupgrade"
+  },
+  "next": {
+    "title": "Who Can Join",
+    "permalink": "/docs/zeebuprotocol/whocanjoin"
+  }
+}

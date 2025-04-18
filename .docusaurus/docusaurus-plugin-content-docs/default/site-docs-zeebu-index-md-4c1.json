@@ -1,0 +1,31 @@
+{
+  "id": "Zeebu/Index",
+  "title": "Zeebu",
+  "description": "Zeebu",
+  "source": "@site/docs/Zeebu/Index.md",
+  "sourceDirName": "Zeebu",
+  "slug": "/zeebu",
+  "permalink": "/docs/zeebu",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Zeebu/Index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Zeebu",
+    "slug": "/zeebu",
+    "hide_table_of_contents": false,
+    "sidebar_position": 5,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Utility Of Token",
+    "permalink": "/docs/whyzeebu/utilityoftoken"
+  },
+  "next": {
+    "title": "Token",
+    "permalink": "/docs/zeebu/token"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "Miscellaneous/legaldisclaimer",
+  "title": "Legal Disclaimer",
+  "description": "Legal Disclaimer",
+  "source": "@site/docs/Miscellaneous/LegalDisclaimer.md",
+  "sourceDirName": "Miscellaneous",
+  "slug": "/miscellaneous/legaldisclaimer",
+  "permalink": "/docs/miscellaneous/legaldisclaimer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Miscellaneous/LegalDisclaimer.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "id": "legaldisclaimer",
+    "title": "Legal Disclaimer",
+    "slug": "/miscellaneous/legaldisclaimer",
+    "sidebar_label": "Legal Disclaimer",
+    "sidebar_position": 10,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Socials",
+    "permalink": "/docs/miscellaneous/socials"
+  }
+}

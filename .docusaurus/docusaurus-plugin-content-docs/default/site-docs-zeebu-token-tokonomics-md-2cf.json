@@ -1,0 +1,32 @@
+{
+  "id": "Zeebu/Token/tokonomics",
+  "title": "Tokonomics",
+  "description": "Tokonomics",
+  "source": "@site/docs/Zeebu/Token/Tokonomics.md",
+  "sourceDirName": "Zeebu/Token",
+  "slug": "/zeebu/token/tokonomics",
+  "permalink": "/docs/zeebu/token/tokonomics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Zeebu/Token/Tokonomics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "tokonomics",
+    "title": "Tokonomics",
+    "slug": "/zeebu/token/tokonomics",
+    "sidebar_label": "Tokonomics",
+    "sidebar_position": 1,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Token",
+    "permalink": "/docs/zeebu/token"
+  },
+  "next": {
+    "title": "Zeebu Consumption",
+    "permalink": "/docs/zeebu/token/zeebuconsumption"
+  }
+}

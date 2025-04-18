@@ -1,0 +1,32 @@
+{
+  "id": "ZeebuAcademy/zeebuairdrop",
+  "title": "Zeebu Airdrop",
+  "description": "Zeebu Airdrop",
+  "source": "@site/docs/ZeebuAcademy/ZeebuAirdrop.md",
+  "sourceDirName": "ZeebuAcademy",
+  "slug": "/zeebuacademy/zeebuairdrop",
+  "permalink": "/docs/zeebuacademy/zeebuairdrop",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ZeebuAcademy/ZeebuAirdrop.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "zeebuairdrop",
+    "title": "Zeebu Airdrop",
+    "slug": "/zeebuacademy/zeebuairdrop",
+    "sidebar_label": "Zeebu Airdrop",
+    "sidebar_position": 4,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Zeebu Node",
+    "permalink": "/docs/zeebuacademy/zeebunode"
+  },
+  "next": {
+    "title": "Miscellaneous",
+    "permalink": "/docs/miscellaneous"
+  }
+}

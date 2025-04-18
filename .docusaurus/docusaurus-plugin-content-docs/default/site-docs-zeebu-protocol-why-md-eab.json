@@ -1,0 +1,32 @@
+{
+  "id": "ZeebuProtocol/why",
+  "title": "Why?",
+  "description": "Why?",
+  "source": "@site/docs/ZeebuProtocol/Why.md",
+  "sourceDirName": "ZeebuProtocol",
+  "slug": "/zeebuprotocol/why",
+  "permalink": "/docs/zeebuprotocol/why",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ZeebuProtocol/Why.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "why",
+    "title": "Why?",
+    "slug": "/zeebuprotocol/why",
+    "sidebar_label": "Why?",
+    "sidebar_position": 1,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Delegators",
+    "permalink": "/docs/zeebuprotocol/keyparticipants/delegators"
+  },
+  "next": {
+    "title": "Stake",
+    "permalink": "/docs/zeebuprotocol/stake"
+  }
+}

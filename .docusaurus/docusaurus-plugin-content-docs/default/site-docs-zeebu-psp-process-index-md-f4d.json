@@ -1,0 +1,31 @@
+{
+  "id": "Zeebu/PSP/Process/Index",
+  "title": "Process",
+  "description": "Process",
+  "source": "@site/docs/Zeebu/PSP/Process/Index.md",
+  "sourceDirName": "Zeebu/PSP/Process",
+  "slug": "/zeebu/psp/process",
+  "permalink": "/docs/zeebu/psp/process",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Zeebu/PSP/Process/Index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Process",
+    "slug": "/zeebu/psp/process",
+    "hide_table_of_contents": false,
+    "sidebar_position": 3,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Stakeholders",
+    "permalink": "/docs/zeebu/psp/stakeholders"
+  },
+  "next": {
+    "title": "Merchant & Customer Dashboard",
+    "permalink": "/docs/zeebu/psp/process/merchantcustomerdashboard"
+  }
+}

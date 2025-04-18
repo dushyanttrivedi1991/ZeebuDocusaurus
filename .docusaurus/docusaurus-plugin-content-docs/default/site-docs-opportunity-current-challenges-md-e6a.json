@@ -1,0 +1,32 @@
+{
+  "id": "Opportunity/currentchallenges",
+  "title": "Current Challenges",
+  "description": "Current Challenges",
+  "source": "@site/docs/Opportunity/CurrentChallenges.md",
+  "sourceDirName": "Opportunity",
+  "slug": "/opportunity/currentchallenges",
+  "permalink": "/docs/opportunity/currentchallenges",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Opportunity/CurrentChallenges.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "currentchallenges",
+    "title": "Current Challenges",
+    "slug": "/opportunity/currentchallenges",
+    "sidebar_label": "Current Challenges",
+    "sidebar_position": 3,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Current Views",
+    "permalink": "/docs/opportunity/currentviews"
+  },
+  "next": {
+    "title": "Why Zeebu",
+    "permalink": "/docs/whyzeebu"
+  }
+}

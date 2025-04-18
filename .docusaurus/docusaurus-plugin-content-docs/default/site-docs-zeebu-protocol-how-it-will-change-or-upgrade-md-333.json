@@ -1,0 +1,32 @@
+{
+  "id": "ZeebuProtocol/howitwillchangeorupgrade",
+  "title": "How It Will Change Or Upgrade",
+  "description": "How It Will Change Or Upgrade",
+  "source": "@site/docs/ZeebuProtocol/HowItWillChangeOrUpgrade.md",
+  "sourceDirName": "ZeebuProtocol",
+  "slug": "/zeebuprotocol/howitwillchangeorupgrade",
+  "permalink": "/docs/zeebuprotocol/howitwillchangeorupgrade",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ZeebuProtocol/HowItWillChangeOrUpgrade.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "howitwillchangeorupgrade",
+    "title": "How It Will Change Or Upgrade",
+    "slug": "/zeebuprotocol/howitwillchangeorupgrade",
+    "sidebar_label": "How It Will Change Or Upgrade",
+    "sidebar_position": 6,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Benefits",
+    "permalink": "/docs/zeebuprotocol/benefits"
+  },
+  "next": {
+    "title": "Zeebu Flow",
+    "permalink": "/docs/zeebuprotocol/zeebuflow"
+  }
+}

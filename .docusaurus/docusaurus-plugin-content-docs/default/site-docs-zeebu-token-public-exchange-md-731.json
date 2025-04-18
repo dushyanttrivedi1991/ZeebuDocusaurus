@@ -1,0 +1,32 @@
+{
+  "id": "Zeebu/Token/publicexchange",
+  "title": "Public Exchange",
+  "description": "Public Exchange",
+  "source": "@site/docs/Zeebu/Token/PublicExchange.md",
+  "sourceDirName": "Zeebu/Token",
+  "slug": "/zeebu/token/publicexchange",
+  "permalink": "/docs/zeebu/token/publicexchange",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Zeebu/Token/PublicExchange.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "publicexchange",
+    "title": "Public Exchange",
+    "slug": "/zeebu/token/publicexchange",
+    "sidebar_label": "Public Exchange",
+    "sidebar_position": 5,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Token Sale",
+    "permalink": "/docs/zeebu/token/tokensale"
+  },
+  "next": {
+    "title": "PSP",
+    "permalink": "/docs/zeebu/psp"
+  }
+}

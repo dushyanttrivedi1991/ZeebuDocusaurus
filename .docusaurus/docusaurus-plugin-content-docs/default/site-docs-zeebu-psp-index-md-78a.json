@@ -1,0 +1,31 @@
+{
+  "id": "Zeebu/PSP/Index",
+  "title": "PSP",
+  "description": "PSP",
+  "source": "@site/docs/Zeebu/PSP/Index.md",
+  "sourceDirName": "Zeebu/PSP",
+  "slug": "/zeebu/psp",
+  "permalink": "/docs/zeebu/psp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Zeebu/PSP/Index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "PSP",
+    "slug": "/zeebu/psp",
+    "hide_table_of_contents": false,
+    "sidebar_position": 2,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Public Exchange",
+    "permalink": "/docs/zeebu/token/publicexchange"
+  },
+  "next": {
+    "title": "Platform Overview",
+    "permalink": "/docs/zeebu/psp/platformoverview"
+  }
+}

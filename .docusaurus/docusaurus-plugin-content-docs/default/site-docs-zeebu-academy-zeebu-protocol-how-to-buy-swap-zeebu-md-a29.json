@@ -1,0 +1,32 @@
+{
+  "id": "ZeebuAcademy/ZeebuProtocol/howtobuyswapzeebu",
+  "title": "How to Buy/Swap Zeebu",
+  "description": "How to Buy/Swap Zeebu",
+  "source": "@site/docs/ZeebuAcademy/ZeebuProtocol/HowToBuySwapZeebu.md",
+  "sourceDirName": "ZeebuAcademy/ZeebuProtocol",
+  "slug": "/zeebuacademy/zeebuprotocol/howtobuyswapzeebu",
+  "permalink": "/docs/zeebuacademy/zeebuprotocol/howtobuyswapzeebu",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ZeebuAcademy/ZeebuProtocol/HowToBuySwapZeebu.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "howtobuyswapzeebu",
+    "title": "How to Buy/Swap Zeebu",
+    "slug": "/zeebuacademy/zeebuprotocol/howtobuyswapzeebu",
+    "sidebar_label": "How to Buy/Swap Zeebu",
+    "sidebar_position": 6,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "How to Add & Stake Liquidity (LP)",
+    "permalink": "/docs/zeebuacademy/zeebuprotocol/howtoaddstakeliquidity"
+  },
+  "next": {
+    "title": "How To Become Deployer",
+    "permalink": "/docs/zeebuacademy/zeebuprotocol/howtobecomedeployer"
+  }
+}

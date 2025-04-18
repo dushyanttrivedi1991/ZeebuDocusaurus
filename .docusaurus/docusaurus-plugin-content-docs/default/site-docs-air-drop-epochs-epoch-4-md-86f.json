@@ -1,0 +1,32 @@
+{
+  "id": "AirDrop/Epochs/epoch4",
+  "title": "Epoch 4",
+  "description": "Epoch 4",
+  "source": "@site/docs/AirDrop/Epochs/Epoch4.md",
+  "sourceDirName": "AirDrop/Epochs",
+  "slug": "/airdrop/epochs/epoch4",
+  "permalink": "/docs/airdrop/epochs/epoch4",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/AirDrop/Epochs/Epoch4.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "epoch4",
+    "title": "Epoch 4",
+    "slug": "/airdrop/epochs/epoch4",
+    "sidebar_label": "Epoch 4",
+    "sidebar_position": 4,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Epoch 3",
+    "permalink": "/docs/airdrop/epochs/epoch3"
+  },
+  "next": {
+    "title": "Zeebu Academy",
+    "permalink": "/docs/zeebuacademy"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ZeebuProtocol/KeyParticipants/Deployer-OCH/generalnode",
+  "title": "General Node",
+  "description": "General Node",
+  "source": "@site/docs/ZeebuProtocol/KeyParticipants/Deployer-OCH/GeneralNode.md",
+  "sourceDirName": "ZeebuProtocol/KeyParticipants/Deployer-OCH",
+  "slug": "/zeebuprotocol/keyparticipants/deployer-och/generalnode",
+  "permalink": "/docs/zeebuprotocol/keyparticipants/deployer-och/generalnode",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ZeebuProtocol/KeyParticipants/Deployer-OCH/GeneralNode.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "generalnode",
+    "title": "General Node",
+    "slug": "/zeebuprotocol/keyparticipants/deployer-och/generalnode",
+    "sidebar_label": "General Node",
+    "sidebar_position": 3,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "KOL Node",
+    "permalink": "/docs/zeebuprotocol/keyparticipants/deployer-och/kolnode"
+  },
+  "next": {
+    "title": "OLP",
+    "permalink": "/docs/zeebuprotocol/keyparticipants/olp"
+  }
+}

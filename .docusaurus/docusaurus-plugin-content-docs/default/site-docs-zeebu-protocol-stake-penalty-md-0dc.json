@@ -1,0 +1,32 @@
+{
+  "id": "ZeebuProtocol/Stake/penalty",
+  "title": "Penalty",
+  "description": "Penalty",
+  "source": "@site/docs/ZeebuProtocol/Stake/Penalty.md",
+  "sourceDirName": "ZeebuProtocol/Stake",
+  "slug": "/zeebuprotocol/stake/penalty",
+  "permalink": "/docs/zeebuprotocol/stake/penalty",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ZeebuProtocol/Stake/Penalty.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "penalty",
+    "title": "Penalty",
+    "slug": "/zeebuprotocol/stake/penalty",
+    "sidebar_label": "Penalty",
+    "sidebar_position": 3,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Locked-ZBU(VeZBU)",
+    "permalink": "/docs/zeebuprotocol/stake/lockedzbu-vezbu"
+  },
+  "next": {
+    "title": "Role Of Each Participants",
+    "permalink": "/docs/zeebuprotocol/roleofeachparticipants"
+  }
+}

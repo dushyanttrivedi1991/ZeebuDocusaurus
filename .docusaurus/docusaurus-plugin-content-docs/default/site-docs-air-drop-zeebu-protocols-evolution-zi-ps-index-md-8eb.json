@@ -1,0 +1,31 @@
+{
+  "id": "AirDrop/ZeebuProtocolsEvolutionZIPs/Index",
+  "title": "Zeebu Protocols Evolution Zips",
+  "description": "Zeebu Protocols Evolution Zips",
+  "source": "@site/docs/AirDrop/ZeebuProtocolsEvolutionZIPs/Index.md",
+  "sourceDirName": "AirDrop/ZeebuProtocolsEvolutionZIPs",
+  "slug": "/airdrop/zeebuprotocolsevolutionzips",
+  "permalink": "/docs/airdrop/zeebuprotocolsevolutionzips",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/AirDrop/ZeebuProtocolsEvolutionZIPs/Index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Zeebu Protocols Evolution Zips",
+    "slug": "/airdrop/zeebuprotocolsevolutionzips",
+    "hide_table_of_contents": false,
+    "sidebar_position": 3,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Multi-Chain Allocation for ZBU Airdrop (Season 1)",
+    "permalink": "/docs/airdrop/zeebuairdropseason1/multichainallocationzbuairdropseason1"
+  },
+  "next": {
+    "title": "ZIP Distribution Rules For Each Activity",
+    "permalink": "/docs/airdrop/zeebuprotocolsevolutionzips/zipdistributionrulesactivity"
+  }
+}

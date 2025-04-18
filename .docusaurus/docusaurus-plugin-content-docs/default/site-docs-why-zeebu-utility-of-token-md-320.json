@@ -1,0 +1,32 @@
+{
+  "id": "WhyZeebu/utilityoftoken",
+  "title": "Utility Of Token",
+  "description": "Utility Of Token",
+  "source": "@site/docs/WhyZeebu/UtilityOfToken.md",
+  "sourceDirName": "WhyZeebu",
+  "slug": "/whyzeebu/utilityoftoken",
+  "permalink": "/docs/whyzeebu/utilityoftoken",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/WhyZeebu/UtilityOfToken.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "utilityoftoken",
+    "title": "Utility Of Token",
+    "slug": "/whyzeebu/utilityoftoken",
+    "sidebar_label": "Utility Of Token",
+    "sidebar_position": 1,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Why Zeebu",
+    "permalink": "/docs/whyzeebu"
+  },
+  "next": {
+    "title": "Zeebu",
+    "permalink": "/docs/zeebu"
+  }
+}

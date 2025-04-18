@@ -1,0 +1,32 @@
+{
+  "id": "Opportunity/keyfacts",
+  "title": "Key Facts",
+  "description": "Key Facts",
+  "source": "@site/docs/Opportunity/KeyFacts.md",
+  "sourceDirName": "Opportunity",
+  "slug": "/opportunity/keyfacts",
+  "permalink": "/docs/opportunity/keyfacts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Opportunity/KeyFacts.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "keyfacts",
+    "title": "Key Facts",
+    "slug": "/opportunity/keyfacts",
+    "sidebar_label": "Key Facts",
+    "sidebar_position": 1,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Opportunity",
+    "permalink": "/docs/opportunity"
+  },
+  "next": {
+    "title": "Current Views",
+    "permalink": "/docs/opportunity/currentviews"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "Opportunity/Index",
+  "title": "Opportunity",
+  "description": "Learn about the key opportunities in telecom and how Zeebu fits in.",
+  "source": "@site/docs/Opportunity/Index.md",
+  "sourceDirName": "Opportunity",
+  "slug": "/opportunity",
+  "permalink": "/docs/opportunity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Opportunity/Index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Opportunity",
+    "description": "Learn about the key opportunities in telecom and how Zeebu fits in.",
+    "slug": "/opportunity",
+    "hide_table_of_contents": false,
+    "sidebar_position": 3,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Problem Statement",
+    "permalink": "/docs/problemstatement"
+  },
+  "next": {
+    "title": "Key Facts",
+    "permalink": "/docs/opportunity/keyfacts"
+  }
+}

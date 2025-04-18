@@ -1,0 +1,31 @@
+{
+  "id": "AirDrop/Epochs/Index",
+  "title": "Epochs",
+  "description": "Epochs",
+  "source": "@site/docs/AirDrop/Epochs/Index.md",
+  "sourceDirName": "AirDrop/Epochs",
+  "slug": "/airdrop/epochs",
+  "permalink": "/docs/airdrop/epochs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/AirDrop/Epochs/Index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Epochs",
+    "slug": "/airdrop/epochs",
+    "hide_table_of_contents": false,
+    "sidebar_position": 4,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Task-Specific Terms and Conditions",
+    "permalink": "/docs/airdrop/zeebuprotocolsevolutionzips/taskspecifictermsconditions"
+  },
+  "next": {
+    "title": "Epoch 1",
+    "permalink": "/docs/airdrop/epochs/epoch1"
+  }
+}

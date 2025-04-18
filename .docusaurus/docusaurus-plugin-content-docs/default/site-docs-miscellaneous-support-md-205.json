@@ -1,0 +1,32 @@
+{
+  "id": "Miscellaneous/support",
+  "title": "Support",
+  "description": "Support",
+  "source": "@site/docs/Miscellaneous/Support.md",
+  "sourceDirName": "Miscellaneous",
+  "slug": "/miscellaneous/support",
+  "permalink": "/docs/miscellaneous/support",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Miscellaneous/Support.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "support",
+    "title": "Support",
+    "slug": "/miscellaneous/support",
+    "sidebar_label": "Support",
+    "sidebar_position": 8,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Policy",
+    "permalink": "/docs/miscellaneous/policy"
+  },
+  "next": {
+    "title": "Socials",
+    "permalink": "/docs/miscellaneous/socials"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ZeebuProtocol/benefits",
+  "title": "Benefits",
+  "description": "Benefits",
+  "source": "@site/docs/ZeebuProtocol/Benefits.md",
+  "sourceDirName": "ZeebuProtocol",
+  "slug": "/zeebuprotocol/benefits",
+  "permalink": "/docs/zeebuprotocol/benefits",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ZeebuProtocol/Benefits.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "benefits",
+    "title": "Benefits",
+    "slug": "/zeebuprotocol/benefits",
+    "sidebar_label": "Benefits",
+    "sidebar_position": 4,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Role Of Each Participants",
+    "permalink": "/docs/zeebuprotocol/roleofeachparticipants"
+  },
+  "next": {
+    "title": "How It Will Change Or Upgrade",
+    "permalink": "/docs/zeebuprotocol/howitwillchangeorupgrade"
+  }
+}

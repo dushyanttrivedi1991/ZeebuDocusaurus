@@ -1,0 +1,32 @@
+{
+  "id": "ZeebuAcademy/zeebupsp",
+  "title": "Zeebu PSP",
+  "description": "Zeebu PSP",
+  "source": "@site/docs/ZeebuAcademy/ZeebuPSP.md",
+  "sourceDirName": "ZeebuAcademy",
+  "slug": "/zeebuacademy/zeebupsp",
+  "permalink": "/docs/zeebuacademy/zeebupsp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ZeebuAcademy/ZeebuPSP.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "zeebupsp",
+    "title": "Zeebu PSP",
+    "slug": "/zeebuacademy/zeebupsp",
+    "sidebar_label": "Zeebu PSP",
+    "sidebar_position": 2,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "How To Become Deployer",
+    "permalink": "/docs/zeebuacademy/zeebuprotocol/howtobecomedeployer"
+  },
+  "next": {
+    "title": "Zeebu Node",
+    "permalink": "/docs/zeebuacademy/zeebunode"
+  }
+}

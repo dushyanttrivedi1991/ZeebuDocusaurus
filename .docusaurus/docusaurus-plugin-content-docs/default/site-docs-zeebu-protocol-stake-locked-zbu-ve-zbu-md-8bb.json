@@ -1,0 +1,32 @@
+{
+  "id": "ZeebuProtocol/Stake/lockedzbu-vezbu",
+  "title": "Locked-ZBU(VeZBU)",
+  "description": "Locked-ZBU(VeZBU)",
+  "source": "@site/docs/ZeebuProtocol/Stake/LockedZBU-VeZBU.md",
+  "sourceDirName": "ZeebuProtocol/Stake",
+  "slug": "/zeebuprotocol/stake/lockedzbu-vezbu",
+  "permalink": "/docs/zeebuprotocol/stake/lockedzbu-vezbu",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ZeebuProtocol/Stake/LockedZBU-VeZBU.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "lockedzbu-vezbu",
+    "title": "Locked-ZBU(VeZBU)",
+    "slug": "/zeebuprotocol/stake/lockedzbu-vezbu",
+    "sidebar_label": "Locked-ZBU(VeZBU)",
+    "sidebar_position": 2,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "How",
+    "permalink": "/docs/zeebuprotocol/stake/how"
+  },
+  "next": {
+    "title": "Penalty",
+    "permalink": "/docs/zeebuprotocol/stake/penalty"
+  }
+}

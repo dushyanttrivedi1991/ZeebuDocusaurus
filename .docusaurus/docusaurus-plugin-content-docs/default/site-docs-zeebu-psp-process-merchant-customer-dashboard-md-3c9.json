@@ -1,0 +1,32 @@
+{
+  "id": "Zeebu/PSP/Process/merchantcustomerdashboard",
+  "title": "Merchant & Customer Dashboard",
+  "description": "Merchant & Customer Dashboard",
+  "source": "@site/docs/Zeebu/PSP/Process/MerchantCustomerDashboard.md",
+  "sourceDirName": "Zeebu/PSP/Process",
+  "slug": "/zeebu/psp/process/merchantcustomerdashboard",
+  "permalink": "/docs/zeebu/psp/process/merchantcustomerdashboard",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Zeebu/PSP/Process/MerchantCustomerDashboard.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "merchantcustomerdashboard",
+    "title": "Merchant & Customer Dashboard",
+    "slug": "/zeebu/psp/process/merchantcustomerdashboard",
+    "sidebar_label": "Merchant & Customer Dashboard",
+    "sidebar_position": 1,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Process",
+    "permalink": "/docs/zeebu/psp/process"
+  },
+  "next": {
+    "title": "Payment Processor & Settlement Layer",
+    "permalink": "/docs/zeebu/psp/process/paymentprocessorsettlement"
+  }
+}

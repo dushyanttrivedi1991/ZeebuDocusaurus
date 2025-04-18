@@ -1,0 +1,32 @@
+{
+  "id": "ZeebuAcademy/ZeebuProtocol/useronboarding",
+  "title": "User Onboarding",
+  "description": "User Onboarding",
+  "source": "@site/docs/ZeebuAcademy/ZeebuProtocol/UserOnboarding.md",
+  "sourceDirName": "ZeebuAcademy/ZeebuProtocol",
+  "slug": "/zeebuacademy/zeebuprotocol/useronboarding",
+  "permalink": "/docs/zeebuacademy/zeebuprotocol/useronboarding",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ZeebuAcademy/ZeebuProtocol/UserOnboarding.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "useronboarding",
+    "title": "User Onboarding",
+    "slug": "/zeebuacademy/zeebuprotocol/useronboarding",
+    "sidebar_label": "User Onboarding",
+    "sidebar_position": 1,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Zeebu Protocol",
+    "permalink": "/docs/zeebuacademy/zeebuprotocol"
+  },
+  "next": {
+    "title": "Login & Dashboard",
+    "permalink": "/docs/zeebuacademy/zeebuprotocol/logindashboard"
+  }
+}

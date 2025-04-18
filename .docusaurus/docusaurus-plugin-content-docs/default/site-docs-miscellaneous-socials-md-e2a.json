@@ -1,0 +1,32 @@
+{
+  "id": "Miscellaneous/socials",
+  "title": "Socials",
+  "description": "",
+  "source": "@site/docs/Miscellaneous/Socials.md",
+  "sourceDirName": "Miscellaneous",
+  "slug": "/miscellaneous/socials",
+  "permalink": "/docs/miscellaneous/socials",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Miscellaneous/Socials.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "id": "socials",
+    "title": "Socials",
+    "slug": "/miscellaneous/socials",
+    "sidebar_label": "Socials",
+    "sidebar_position": 9,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Support",
+    "permalink": "/docs/miscellaneous/support"
+  },
+  "next": {
+    "title": "Legal Disclaimer",
+    "permalink": "/docs/miscellaneous/legaldisclaimer"
+  }
+}

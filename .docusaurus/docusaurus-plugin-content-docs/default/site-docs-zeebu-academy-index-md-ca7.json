@@ -1,0 +1,31 @@
+{
+  "id": "ZeebuAcademy/Index",
+  "title": "Zeebu Academy",
+  "description": "Zeebu Academy",
+  "source": "@site/docs/ZeebuAcademy/Index.md",
+  "sourceDirName": "ZeebuAcademy",
+  "slug": "/zeebuacademy",
+  "permalink": "/docs/zeebuacademy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ZeebuAcademy/Index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "Zeebu Academy",
+    "slug": "/zeebuacademy",
+    "hide_table_of_contents": false,
+    "sidebar_position": 9,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Epoch 4",
+    "permalink": "/docs/airdrop/epochs/epoch4"
+  },
+  "next": {
+    "title": "Zeebu Protocol",
+    "permalink": "/docs/zeebuacademy/zeebuprotocol"
+  }
+}

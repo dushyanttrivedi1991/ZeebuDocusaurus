@@ -1,0 +1,32 @@
+{
+  "id": "ZeebuAcademy/ZeebuProtocol/logindashboard",
+  "title": "Login & Dashboard",
+  "description": "Login & Dashboard",
+  "source": "@site/docs/ZeebuAcademy/ZeebuProtocol/LoginDashboard.md",
+  "sourceDirName": "ZeebuAcademy/ZeebuProtocol",
+  "slug": "/zeebuacademy/zeebuprotocol/logindashboard",
+  "permalink": "/docs/zeebuacademy/zeebuprotocol/logindashboard",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ZeebuAcademy/ZeebuProtocol/LoginDashboard.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "logindashboard",
+    "title": "Login & Dashboard",
+    "slug": "/zeebuacademy/zeebuprotocol/logindashboard",
+    "sidebar_label": "Login & Dashboard",
+    "sidebar_position": 2,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "User Onboarding",
+    "permalink": "/docs/zeebuacademy/zeebuprotocol/useronboarding"
+  },
+  "next": {
+    "title": "How To Change \"Blockchain\"",
+    "permalink": "/docs/zeebuacademy/zeebuprotocol/howtochangeblockchain"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "Opportunity/currentviews",
+  "title": "Current Views",
+  "description": "Current Views",
+  "source": "@site/docs/Opportunity/CurrentViews.md",
+  "sourceDirName": "Opportunity",
+  "slug": "/opportunity/currentviews",
+  "permalink": "/docs/opportunity/currentviews",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Opportunity/CurrentViews.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "currentviews",
+    "title": "Current Views",
+    "slug": "/opportunity/currentviews",
+    "sidebar_label": "Current Views",
+    "sidebar_position": 2,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Key Facts",
+    "permalink": "/docs/opportunity/keyfacts"
+  },
+  "next": {
+    "title": "Current Challenges",
+    "permalink": "/docs/opportunity/currentchallenges"
+  }
+}

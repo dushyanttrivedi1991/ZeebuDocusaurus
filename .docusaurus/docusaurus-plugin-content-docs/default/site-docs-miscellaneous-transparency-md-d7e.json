@@ -1,0 +1,32 @@
+{
+  "id": "Miscellaneous/transparency",
+  "title": "Transparency",
+  "description": "Transparency",
+  "source": "@site/docs/Miscellaneous/Transparency.md",
+  "sourceDirName": "Miscellaneous",
+  "slug": "/miscellaneous/transparency",
+  "permalink": "/docs/miscellaneous/transparency",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Miscellaneous/Transparency.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "transparency",
+    "title": "Transparency",
+    "slug": "/miscellaneous/transparency",
+    "sidebar_label": "Transparency",
+    "sidebar_position": 5,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Key Addresses",
+    "permalink": "/docs/miscellaneous/keyaddresses"
+  },
+  "next": {
+    "title": "Terms And Conditions",
+    "permalink": "/docs/miscellaneous/termsandconditions"
+  }
+}

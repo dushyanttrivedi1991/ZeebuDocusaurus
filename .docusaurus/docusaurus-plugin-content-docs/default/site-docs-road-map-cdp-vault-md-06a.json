@@ -1,0 +1,32 @@
+{
+  "id": "RoadMap/cdpvault",
+  "title": "CDP Vault",
+  "description": "CDP Vault",
+  "source": "@site/docs/RoadMap/CDPVault.md",
+  "sourceDirName": "RoadMap",
+  "slug": "/roadmap/cdpvault",
+  "permalink": "/docs/roadmap/cdpvault",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/RoadMap/CDPVault.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "cdpvault",
+    "title": "CDP Vault",
+    "slug": "/roadmap/cdpvault",
+    "sidebar_label": "CDP Vault",
+    "sidebar_position": 2,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Money Market",
+    "permalink": "/docs/roadmap/moneymarket"
+  },
+  "next": {
+    "title": "AirDrop",
+    "permalink": "/docs/airdrop"
+  }
+}

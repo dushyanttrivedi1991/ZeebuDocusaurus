@@ -1,0 +1,31 @@
+{
+  "id": "problemstatement",
+  "title": "Problem Statement",
+  "description": "Problem Statement",
+  "source": "@site/docs/ProblemStatement.md",
+  "sourceDirName": ".",
+  "slug": "/problemstatement",
+  "permalink": "/docs/problemstatement",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ProblemStatement.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "problemstatement",
+    "title": "Problem Statement",
+    "sidebar_label": "Problem Statement",
+    "sidebar_position": 2,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Opportunity",
+    "permalink": "/docs/opportunity"
+  }
+}

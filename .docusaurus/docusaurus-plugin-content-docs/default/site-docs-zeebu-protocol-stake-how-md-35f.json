@@ -1,0 +1,32 @@
+{
+  "id": "ZeebuProtocol/Stake/how",
+  "title": "How",
+  "description": "How",
+  "source": "@site/docs/ZeebuProtocol/Stake/How.md",
+  "sourceDirName": "ZeebuProtocol/Stake",
+  "slug": "/zeebuprotocol/stake/how",
+  "permalink": "/docs/zeebuprotocol/stake/how",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ZeebuProtocol/Stake/How.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "how",
+    "title": "How",
+    "slug": "/zeebuprotocol/stake/how",
+    "sidebar_label": "How",
+    "sidebar_position": 1,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Stake",
+    "permalink": "/docs/zeebuprotocol/stake"
+  },
+  "next": {
+    "title": "Locked-ZBU(VeZBU)",
+    "permalink": "/docs/zeebuprotocol/stake/lockedzbu-vezbu"
+  }
+}

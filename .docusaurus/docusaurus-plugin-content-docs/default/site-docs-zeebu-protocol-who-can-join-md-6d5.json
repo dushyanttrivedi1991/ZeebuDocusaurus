@@ -1,0 +1,32 @@
+{
+  "id": "ZeebuProtocol/whocanjoin",
+  "title": "Who Can Join",
+  "description": "Who Can Join",
+  "source": "@site/docs/ZeebuProtocol/WhoCanJoin.md",
+  "sourceDirName": "ZeebuProtocol",
+  "slug": "/zeebuprotocol/whocanjoin",
+  "permalink": "/docs/zeebuprotocol/whocanjoin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ZeebuProtocol/WhoCanJoin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "whocanjoin",
+    "title": "Who Can Join",
+    "slug": "/zeebuprotocol/whocanjoin",
+    "sidebar_label": "Who Can Join",
+    "sidebar_position": 8,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Zeebu Flow",
+    "permalink": "/docs/zeebuprotocol/zeebuflow"
+  },
+  "next": {
+    "title": "RoadMap",
+    "permalink": "/docs/roadmap"
+  }
+}

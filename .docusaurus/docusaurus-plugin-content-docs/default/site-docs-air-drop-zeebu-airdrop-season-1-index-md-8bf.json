@@ -1,0 +1,31 @@
+{
+  "id": "AirDrop/ZeebuAirdropSeason1/Index",
+  "title": "Zeebu AirDrop Season One",
+  "description": "Zeebu AirDrop Season One",
+  "source": "@site/docs/AirDrop/ZeebuAirdropSeason1/Index.md",
+  "sourceDirName": "AirDrop/ZeebuAirdropSeason1",
+  "slug": "/airdrop/zeebuairdropseason1",
+  "permalink": "/docs/airdrop/zeebuairdropseason1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/AirDrop/ZeebuAirdropSeason1/Index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Zeebu AirDrop Season One",
+    "slug": "/airdrop/zeebuairdropseason1",
+    "hide_table_of_contents": false,
+    "sidebar_position": 2,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Zeebu Protocol Waitlist",
+    "permalink": "/docs/airdrop/zeebuprotocolwaitlist"
+  },
+  "next": {
+    "title": "Multi-Chain Allocation for ZBU Airdrop (Season 1)",
+    "permalink": "/docs/airdrop/zeebuairdropseason1/multichainallocationzbuairdropseason1"
+  }
+}

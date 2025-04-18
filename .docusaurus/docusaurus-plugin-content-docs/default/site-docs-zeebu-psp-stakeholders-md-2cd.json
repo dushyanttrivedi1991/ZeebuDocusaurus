@@ -1,0 +1,32 @@
+{
+  "id": "Zeebu/PSP/stakeholders",
+  "title": "Stakeholders",
+  "description": "Stakeholders",
+  "source": "@site/docs/Zeebu/PSP/Stakeholders.md",
+  "sourceDirName": "Zeebu/PSP",
+  "slug": "/zeebu/psp/stakeholders",
+  "permalink": "/docs/zeebu/psp/stakeholders",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Zeebu/PSP/Stakeholders.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "stakeholders",
+    "title": "Stakeholders",
+    "slug": "/zeebu/psp/stakeholders",
+    "sidebar_label": "Stakeholders",
+    "sidebar_position": 2,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Technology",
+    "permalink": "/docs/zeebu/psp/platformoverview/technology"
+  },
+  "next": {
+    "title": "Process",
+    "permalink": "/docs/zeebu/psp/process"
+  }
+}

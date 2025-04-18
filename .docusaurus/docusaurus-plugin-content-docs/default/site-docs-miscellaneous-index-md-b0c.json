@@ -1,0 +1,31 @@
+{
+  "id": "Miscellaneous/Index",
+  "title": "Miscellaneous",
+  "description": "Miscellaneous",
+  "source": "@site/docs/Miscellaneous/Index.md",
+  "sourceDirName": "Miscellaneous",
+  "slug": "/miscellaneous",
+  "permalink": "/docs/miscellaneous",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Miscellaneous/Index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "Miscellaneous",
+    "slug": "/miscellaneous",
+    "hide_table_of_contents": false,
+    "sidebar_position": 10,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Zeebu Airdrop",
+    "permalink": "/docs/zeebuacademy/zeebuairdrop"
+  },
+  "next": {
+    "title": "Brand Kit",
+    "permalink": "/docs/miscellaneous/brandkit"
+  }
+}

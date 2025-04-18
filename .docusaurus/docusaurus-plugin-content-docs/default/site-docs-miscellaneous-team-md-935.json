@@ -1,0 +1,32 @@
+{
+  "id": "Miscellaneous/team",
+  "title": "Team",
+  "description": "Team",
+  "source": "@site/docs/Miscellaneous/Team.md",
+  "sourceDirName": "Miscellaneous",
+  "slug": "/miscellaneous/team",
+  "permalink": "/docs/miscellaneous/team",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Miscellaneous/Team.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "team",
+    "title": "Team",
+    "slug": "/miscellaneous/team",
+    "sidebar_label": "Team",
+    "sidebar_position": 2,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Brand Kit",
+    "permalink": "/docs/miscellaneous/brandkit"
+  },
+  "next": {
+    "title": "Partnership",
+    "permalink": "/docs/miscellaneous/partnership"
+  }
+}

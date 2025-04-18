@@ -1,0 +1,32 @@
+{
+  "id": "Miscellaneous/partnership",
+  "title": "Partnership",
+  "description": "Partnership",
+  "source": "@site/docs/Miscellaneous/Partnership.md",
+  "sourceDirName": "Miscellaneous",
+  "slug": "/miscellaneous/partnership",
+  "permalink": "/docs/miscellaneous/partnership",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Miscellaneous/Partnership.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "partnership",
+    "title": "Partnership",
+    "slug": "/miscellaneous/partnership",
+    "sidebar_label": "Partnership",
+    "sidebar_position": 3,
+    "hide_title": true
+  },
+  "sidebar": "zeebuSidebar",
+  "previous": {
+    "title": "Team",
+    "permalink": "/docs/miscellaneous/team"
+  },
+  "next": {
+    "title": "Key Addresses",
+    "permalink": "/docs/miscellaneous/keyaddresses"
+  }
+}
